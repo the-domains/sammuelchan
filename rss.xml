@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[SammuelChan]]></title>
         <description><![CDATA[SammuelChan]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sammuelchan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 19:53:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 21 Mar 2016 19:54:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sammuelchan/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/55ac6915-0e84-45c6-853c-7f2ba08ceb36.jpg">]]></description>
+            <link>https://thegrid.ai/sammuelchan/8dfcf3c5-6269-4de3-865c-c58ba55e0e29/index.html</link>
+            <guid isPermaLink="false">8dfcf3c5-6269-4de3-865c-c58ba55e0e29</guid>
+            <pubDate>Mon, 21 Mar 2016 19:54:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>This is not as intuitive as I had imagined. </p>]]></description>
-            <link>undefined93cd9d8c-f743-489c-8d18-5aaf9e05948a/index.html</link>
+            <link>https://thegrid.ai/sammuelchan/93cd9d8c-f743-489c-8d18-5aaf9e05948a/index.html</link>
             <guid isPermaLink="false">93cd9d8c-f743-489c-8d18-5aaf9e05948a</guid>
             <pubDate>Mon, 21 Mar 2016 19:53:09 GMT</pubDate>
         </item>
